@@ -54,16 +54,16 @@ const aboutData = [
     title: 'experience',
     info: [
       {
-        title: 'Web Deveoper - XYZ Company',
+        title: 'Web Deveoper - Gadget Connect Limited',
         stage: '2022 - Up to Date',
       },
       {
-        title: 'Web Developer - ABC Agency',
-        stage: '2020 - 2022',
+        title: 'Web Developer - Value Connection Services Limited',
+        stage: '2019 - 2022',
       },
       {
-        title: 'Intern - DEF Corporation',
-        stage: '2019 - 2020',
+        title: 'Intern - ICT Authority of Kenya',
+        stage: '2018 - 2019',
       },
     ],
   },
@@ -71,7 +71,7 @@ const aboutData = [
     title: 'credentials',
     info: [
       {
-        title: 'Web Development - FreeCodeCamp',
+        title: 'React JS - FreeCodeCamp',
         stage: '2019',
       },
       {
