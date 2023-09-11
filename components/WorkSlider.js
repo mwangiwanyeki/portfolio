@@ -34,9 +34,9 @@ const workSlides = {
           proj_url: 'https://topstrategiesconsultants.com/',
         },
         {
-          title: 'Logistics Website',
+          title: 'Creative Agency Landing Page',
           path: '/proj44.png',
-          proj_url: 'https://tetrajets.com/',
+          proj_url: 'https://creative-agency-landing-page.netlify.app/',
         },
       ],
     },
