@@ -35,7 +35,7 @@ const workSlides = {
         },
         {
           title: 'Creative Agency Landing Page',
-          path: '/proj44.png',
+          path: '/creative-agency.png',
           proj_url: 'https://creative-agency-landing-page.netlify.app/',
         },
       ],
