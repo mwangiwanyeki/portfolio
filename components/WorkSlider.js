@@ -29,9 +29,9 @@ const workSlides = {
           proj_url: 'https://carhub-website.netlify.app/',
         },
         {
-          title: 'Consultancy Website',
-          path: '/proj33.png',
-          proj_url: 'https://topstrategiesconsultants.com/',
+          title: 'Real-Estate Website',
+          path: '/realestate.png',
+          proj_url: 'https://real-estate-bob-home.vercel.app/',
         },
         {
           title: 'Creative Agency Landing Page',
