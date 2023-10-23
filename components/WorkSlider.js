@@ -43,9 +43,9 @@ const workSlides = {
     {
       images: [
         {
-          title: 'Sushi App',
-          path: '/proj11.png',
-          proj_url: 'https://sushipap-app.netlify.app/',
+          title: 'Travel App',
+          path: '/travel-app.png',
+          proj_url: 'https://travel-app-mwangiwanyeki.vercel.app/',
         },
         {
           title: 'CarHub',
